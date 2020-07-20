@@ -1,7 +1,7 @@
 ---
-title: Lab 1 - Welcome
+title: Lab 0 - Welcome
 workshops: dev_containers_to_openshift
-workshop_weight: 11
+workshop_weight: 10
 layout: lab
 ---
 
